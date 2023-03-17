@@ -4,7 +4,7 @@
   Eu sou o Rhuan, e sejam bem-vindos ao meu perfil! Sou iniciante na área de programação, porém, trago comigo uma grande vontade de me expandir nessa área.
 
 ## Sobre mim
--  1° Período em Engenharia de Computação
+-  Graduando em Engenharia de Computação com ingresso em 2022.1
  Universidade Federal de Itajubá (UNIFEI) - Campus  Itabira
 
 
