@@ -3,7 +3,7 @@
 
 ## Sobre mim
 -  Graduando em Engenharia de Computação na Universidade Federal de Itajubá (UNIFEI) - Campus  Itabira;
--  Agente de Inovação atuante no Maker Space da Universidade Federal de Itajubá - Campus Itabira;
+-  Agente de Inovação no Maker Space da Universidade Federal de Itajubá - Campus Itabira (Jul-2022 a Jun-2023);
 
 
 ## Tecnologias em Estudo
