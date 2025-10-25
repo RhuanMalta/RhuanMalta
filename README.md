@@ -3,7 +3,7 @@
 Sou estudante de **Engenharia de Computação** na **Universidade Federal de Itajubá (UNIFEI) – Campus Itabira**. Tenho grande interesse nas áreas de **banco de dados** e **automação**.  
 
 Atualmente, atuo como **Capitão de Eletrônica da equipe de competição Iron Racers Formula SAE**, onde lidero o desenvolvimento de sistemas embarcados e infraestrutura elétrica do veículo.  
-Além disso, sou **desenvolvedor front-end** em um projeto de pesquisa e inovação em parceria com a **FAPEMIG**, contribuindo para o desenvolvimento de soluções web modernas e escaláveis.    
+Além disso, sou **desenvolvedor front-end** em um projeto de pesquisa e inovação em parceria com a **FAPEMIG**.    
 
 ---
 
